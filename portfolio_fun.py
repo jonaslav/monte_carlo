@@ -11,7 +11,7 @@ import matplotlib.ticker as ticker
 from matplotlib.ticker import FuncFormatter
 
 
-class MonteCarloPortFolio():
+class MonteCarloPortfolio:
     def __init__(self):
 
         ## Inputs
