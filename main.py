@@ -182,6 +182,8 @@ class Canvas(FigureCanvas):
             plt.xlabel('År')
             plt.ylabel('Porteføljens verdi')
             plt.legend(loc='best')
+            plt.show()
+
         varsimiloc()
 
 
